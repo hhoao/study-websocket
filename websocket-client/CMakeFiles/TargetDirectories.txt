@@ -1,0 +1,3 @@
+/home/hhoa/git/websocket/CMakeFiles/websocket.dir
+/home/hhoa/git/websocket/CMakeFiles/edit_cache.dir
+/home/hhoa/git/websocket/CMakeFiles/rebuild_cache.dir

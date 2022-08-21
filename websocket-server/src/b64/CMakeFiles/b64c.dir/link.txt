@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC -shared -Wl,-soname,libb64c.so -o libb64c.so CMakeFiles/b64c.dir/buffer.c.o CMakeFiles/b64c.dir/decode.c.o CMakeFiles/b64c.dir/encode.c.o 

@@ -1,0 +1,11 @@
+/home/hhoa/CLionProjects/study-websocket/CMakeFiles/edit_cache.dir
+/home/hhoa/CLionProjects/study-websocket/CMakeFiles/rebuild_cache.dir
+/home/hhoa/CLionProjects/study-websocket/websocket-server/CMakeFiles/websocket-server.dir
+/home/hhoa/CLionProjects/study-websocket/websocket-server/CMakeFiles/edit_cache.dir
+/home/hhoa/CLionProjects/study-websocket/websocket-server/CMakeFiles/rebuild_cache.dir
+/home/hhoa/CLionProjects/study-websocket/websocket-server/src/b64/CMakeFiles/b64c.dir
+/home/hhoa/CLionProjects/study-websocket/websocket-server/src/b64/CMakeFiles/edit_cache.dir
+/home/hhoa/CLionProjects/study-websocket/websocket-server/src/b64/CMakeFiles/rebuild_cache.dir
+/home/hhoa/CLionProjects/study-websocket/websocket-client/CMakeFiles/websocket-client.dir
+/home/hhoa/CLionProjects/study-websocket/websocket-client/CMakeFiles/edit_cache.dir
+/home/hhoa/CLionProjects/study-websocket/websocket-client/CMakeFiles/rebuild_cache.dir
